@@ -16,7 +16,7 @@
 - 🎯 I’m aiming to build unique websites & apps that make a difference  
 - 👨‍🎓 I study **Dentistry** and code every chance I get  
 - 🧠 I'm always exploring new technologies and solving problems  
-- 📫 You can reach me at **AliAlhadi.dev@gmail.com**
+- 📫 You can reach me at **Acoding04@gmail.com**
 
 ---
 
