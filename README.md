@@ -72,21 +72,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="50"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[HealthBot](https://github.com/Ali-alhadi111/HealthBot)** | AI-powered health assistant chatbot | Python, NLTK, Flask |
-| **[Mushy Blog](https://github.com/Ali-alhadi111/mushy-blog)** | Full-featured blog platform | Flask, HTML, Python |
-| **[HabitsAppFlutter](https://github.com/Ali-alhadi111/HabitsAppFlutter)** | Daily habits tracker with stats | Flutter, Dart |
-| **[To-Do App](https://github.com/Ali-alhadi111/To-Do-App)** | Task management application | JavaScript |
-| **[ATM Simulation](https://github.com/Ali-alhadi111/ATM)** | Banking simulation program | Java |
-
-</div>
 
 ---
 
