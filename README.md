@@ -63,14 +63,13 @@
   <img src="https://skillicons.dev/icons?i=swift" alt="Swift" height="50"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" height="50"/>
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="50"/>
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="50"/>
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="50"/>
 </p>
+
+
 
 
 ---
