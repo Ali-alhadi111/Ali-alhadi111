@@ -1,67 +1,124 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<h1 align="center">Hi 👋, I'm Ali Alhadi Sabah</h1>
-<h3 align="center">aka A . V | Web Developer & Code Lover from Iraq 🇮🇶</h3>
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+⎚-⎚+I'm+Ali+Alhadi;aka+A.V+%7C+Web+Developer;Code+Lover+from+Iraq" alt="Typing SVG" />
 
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
+  <br>
+  <img alt="coding" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="350" />
 
-## 💫 About Me:
+</h1>
 
-- 🔭 I'm a **Web Developer** & passionate about **tech, design, and clean code**  
-- 🌱 Currently learning more about **Swift** and **advanced frontend**  
-- 💻 Comfortable with: HTML • CSS • JavaScript • C++ • Python • Swift  
-- 🎯 I’m aiming to build unique websites & apps that make a difference  
-- 👨‍🎓 I study **Dentistry** and code every chance I get  
-- 🧠 I'm always exploring new technologies and solving problems  
-- 📫 You can reach me at **Acoding04@gmail.com**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ali-alhadi111&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ali-alhadi111?label=Followers&style=for-the-badge&color=6366f1" alt="followers" />
+</p>
 
 ---
 
-## 🌐 Socials:
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
-*(ضيف رابط حسابك الفعلي هنا)*
 
----
+## 💫 About Me
 
-## 💻 Tech Stack:
+🚀 **Web Developer** passionate about creating impactful digital experiences  
 
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🔭 **Currently Building:** Innovative web applications and mobile solutions  
 
----
+🌱 **Learning:** Swift, Advanced Frontend, and Flutter Development  
 
-## 📊 GitHub Stats:
+💡 **Focus:** Clean code, modern design, and user-centric development  
 
-![](https://komarev.com/ghpvc/?username=AliAlhadiAV&label=Profile+Views&color=blue&style=flat)
+🎯 **Mission:** Building unique websites & apps that make a real difference  
 
-![](https://github-readme-stats.vercel.app/api?username=AliAlhadiAV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlhadiAV&theme=tokyonight&hide_border=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AliAlhadiAV&theme=tokyonight&hide_border=false)
+🧠 **Always:** Exploring new technologies and solving complex problems  
+
+📫 **Reach me:** [Acoding04@gmail.com](mailto:Acoding04@gmail.com)
+
+<br clear="right"/>
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🌐 Connect With Me
 
-![](https://github-profile-trophy.vercel.app/?username=AliAlhadiAV&theme=monokai&no-bg=true&no-frame=false&margin-w=4)
+<p align="center">
+  <a href="https://github.com/Ali-alhadi111">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ali-alhadi-sabah-b86b1b341/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Acoding04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-### ✍️ Quote of the Day
+## 💻 Tech Stack
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50"/>
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="50"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="50"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="50"/>
+</p>
 
 ---
 
-> *"The code you write today is the bug someone else debugs tomorrow." – A . V*
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **[HealthBot](https://github.com/Ali-alhadi111/HealthBot)** | AI-powered health assistant chatbot | Python, NLTK, Flask |
+| **[Mushy Blog](https://github.com/Ali-alhadi111/mushy-blog)** | Full-featured blog platform | Flask, HTML, Python |
+| **[HabitsAppFlutter](https://github.com/Ali-alhadi111/HabitsAppFlutter)** | Daily habits tracker with stats | Flutter, Dart |
+| **[To-Do App](https://github.com/Ali-alhadi111/To-Do-App)** | Task management application | JavaScript |
+| **[ATM Simulation](https://github.com/Ali-alhadi111/ATM)** | Banking simulation program | Java |
+
+</div>
 
 ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-alhadi111&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
+</p>
+
+
+
+
+
+
+## 💭 Daily Inspiration
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
+</p>
+
+---
+
+<div align="center">
+  
+### 💡 *"The code you write today is the bug someone else debugs tomorrow."* – **A.V**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+
+
+</div>
