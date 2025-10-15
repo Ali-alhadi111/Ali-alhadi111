@@ -19,21 +19,18 @@
 
 
 
-## 💫 About Me
+## 🍀 About Me
 
-🚀 **Web Developer** passionate about creating impactful digital experiences  
+⤷ **Web Developer** passionate about creating impactful digital experiences  
 
-🔭 **Currently Building:** Innovative web applications and mobile solutions  
+⤷ **Learning:** Machine Learning, Web Development, and App Development  
 
-🌱 **Learning:** Swift, Advanced Frontend, and Flutter Development  
+⤷ **Focus:** Clean code, modern design, and user-centric development  
 
-💡 **Focus:** Clean code, modern design, and user-centric development  
+⤷ **Mission:** Building unique websites & apps that make a real difference  
 
-🎯 **Mission:** Building unique websites & apps that make a real difference  
+⤷ **Always:** Exploring new technologies and solving complex problems  
 
-🧠 **Always:** Exploring new technologies and solving complex problems  
-
-📫 **Reach me:** [Acoding04@gmail.com](mailto:Acoding04@gmail.com)
 
 <br clear="right"/>
 
